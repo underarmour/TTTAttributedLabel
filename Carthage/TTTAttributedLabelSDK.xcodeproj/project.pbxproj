@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		193AF98F24BF9538008C2FA0 /* TTTAttributedLabelSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 193AF98E24BF9538008C2FA0 /* TTTAttributedLabelSDK.h */; };
-		193AF99024BF9538008C2FA0 /* TTTAttributedLabelSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 193AF98E24BF9538008C2FA0 /* TTTAttributedLabelSDK.h */; };
+		193AF98F24BF9538008C2FA0 /* TTTAttributedLabelSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 193AF98E24BF9538008C2FA0 /* TTTAttributedLabelSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		193AF99024BF9538008C2FA0 /* TTTAttributedLabelSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 193AF98E24BF9538008C2FA0 /* TTTAttributedLabelSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		65C249A21BDFF9A60014AB94 /* TTTAttributedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = A52E64F01B14C1E9002709D4 /* TTTAttributedLabel.m */; };
 		65C249A51BDFF9A60014AB94 /* TTTAttributedLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = A52E64EF1B14C1E9002709D4 /* TTTAttributedLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A52E64F11B14C1E9002709D4 /* TTTAttributedLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = A52E64EF1B14C1E9002709D4 /* TTTAttributedLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };

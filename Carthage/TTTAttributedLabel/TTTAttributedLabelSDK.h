@@ -14,5 +14,5 @@ FOUNDATION_EXPORT const unsigned char TTTAttributedLabelSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <TestFramework/PublicHeader.h>
 
-#import "TTTAttributedLabel.h"
+#import <TTTAttributedLabelSDK/TTTAttributedLabel.h>
 
