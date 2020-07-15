@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A52E64261B14C0BF002709D4"
-               BuildableName = "TTTAttributedLabel.framework"
-               BlueprintName = "TTTAttributedLabel"
-               ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+               BuildableName = "TTTAttributedLabelSDK.framework"
+               BlueprintName = "TTTAttributedLabelSDK"
+               ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,16 +31,25 @@
                BlueprintIdentifier = "A52E64311B14C0BF002709D4"
                BuildableName = "TTTAttributedLabelTests.xctest"
                BlueprintName = "TTTAttributedLabelTests"
-               ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+               ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A52E64261B14C0BF002709D4"
+            BuildableName = "TTTAttributedLabelSDK.framework"
+            BlueprintName = "TTTAttributedLabelSDK"
+            ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -49,54 +58,44 @@
                BlueprintIdentifier = "A52E64311B14C0BF002709D4"
                BuildableName = "TTTAttributedLabelTests.xctest"
                BlueprintName = "TTTAttributedLabelTests"
-               ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+               ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A52E64261B14C0BF002709D4"
-            BuildableName = "TTTAttributedLabel.framework"
-            BlueprintName = "TTTAttributedLabel"
-            ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A52E64261B14C0BF002709D4"
-            BuildableName = "TTTAttributedLabel.framework"
-            BlueprintName = "TTTAttributedLabel"
-            ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+            BuildableName = "TTTAttributedLabelSDK.framework"
+            BlueprintName = "TTTAttributedLabelSDK"
+            ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A52E64261B14C0BF002709D4"
-            BuildableName = "TTTAttributedLabel.framework"
-            BlueprintName = "TTTAttributedLabel"
-            ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+            BuildableName = "TTTAttributedLabelSDK.framework"
+            BlueprintName = "TTTAttributedLabelSDK"
+            ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "65C249A01BDFF9A60014AB94"
                BuildableName = "TTTAttributedLabel.framework"
-               BlueprintName = "TTTAttributedLabel tvOS"
-               ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+               BlueprintName = "TTTAttributedLabelSDK tvOS"
+               ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65C249A01BDFF9A60014AB94"
             BuildableName = "TTTAttributedLabel.framework"
-            BlueprintName = "TTTAttributedLabel tvOS"
-            ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+            BlueprintName = "TTTAttributedLabelSDK tvOS"
+            ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -65,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "65C249A01BDFF9A60014AB94"
             BuildableName = "TTTAttributedLabel.framework"
-            BlueprintName = "TTTAttributedLabel tvOS"
-            ReferencedContainer = "container:TTTAttributedLabel.xcodeproj">
+            BlueprintName = "TTTAttributedLabelSDK tvOS"
+            ReferencedContainer = "container:TTTAttributedLabelSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
