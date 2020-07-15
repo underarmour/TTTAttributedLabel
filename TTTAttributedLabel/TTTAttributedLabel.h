@@ -23,12 +23,6 @@
 #import <UIKit/UIKit.h>
 #import <CoreText/CoreText.h>
 
-//! Project version number for TTTAttributedLabel.
-FOUNDATION_EXPORT double TTTAttributedLabelVersionNumber;
-
-//! Project version string for TTTAttributedLabel.
-FOUNDATION_EXPORT const unsigned char TTTAttributedLabelVersionString[];
-
 @class TTTAttributedLabelLink;
 
 /**
