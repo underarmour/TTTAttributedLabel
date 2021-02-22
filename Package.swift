@@ -16,8 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "TTTAttributedLabel",
-            path: "TTTAttributedLabel",
-            exclude: ["TTTAttributedLabel.h"])
+            path: "TTTAttributedLabel")
         
     ],
     swiftLanguageVersions: [.v5]
