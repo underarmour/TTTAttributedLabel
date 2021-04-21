@@ -9,7 +9,12 @@ let package = Package(
         .library(
             name: "TTTAttributedLabel",
             targets: ["TTTAttributedLabel"]
-        )
+        ),
+        .library(
+            name: "TTTAttributedLabelDynamic",
+            type: .dynamic,
+            targets: ["TTTAttributedLabel"]
+        ),
     ],
     targets: [
         .target(
